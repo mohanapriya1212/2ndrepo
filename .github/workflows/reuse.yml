@@ -1,6 +1,6 @@
 name: My workflow
 on:
-  [push]
+  push
 jobs:
   main:
-	  uses: mohanapriya1212/1strepo/.github/workflows/main.yml
+   uses: mohanapriya1212/1strepo/.github/workflows/main.yml@main
